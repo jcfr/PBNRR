@@ -9,7 +9,7 @@ set(EXTENSION_CATEGORY "Registration")
 set(EXTENSION_CONTRIBUTORS "Angelos Angelopoulos (CRTC), Fotis Drakopoulos (CRTC), Yixun Liu (CRTC), Andriy Kot (CRTC), Andrey Fedorov (SPL B&W Harvard), Olivier Clatz (Asclepios INRIA), Nikos Chrisochoides (CRTC)")
 set(EXTENSION_DESCRIPTION "This Slicer extension non-rigid registers a moving to a fixed MRI using a linear homogeneous bio-mechanical model to compute a dense deformation field that defines a transformation for every point in the fixed to the moving image.")
 set(EXTENSION_ICONURL "https://raw.github.com/aangelos28/PBNRR/master/PBNRR.png")
-set(EXTENSION_SCREENSHOTURLS "http://www.example.com/Slicer/Extensions/PBNRR/Screenshots/1.png")
+set(EXTENSION_SCREENSHOTURLS "https://www.slicer.org/slicerWiki/images/6/63/Case1_input.png https://www.slicer.org/slicerWiki/images/a/a4/Case1_output.png https://www.slicer.org/slicerWiki/images/d/db/PBNRR_panel.png")
 set(EXTENSION_DEPENDS "NA") # Specified as a space separated string, a list or 'NA' if any
 set(EXTENSION_BUILD_SUBDIRECTORY inner-build)
 
